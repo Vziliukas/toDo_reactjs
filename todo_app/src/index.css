@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.mrg-bot {
+  margin-bottom: 15px;
+}
+
+.mrg-r {
+  margin-right: 15px;
+}
+
+.container {
+  max-width: 1024px;
+}
