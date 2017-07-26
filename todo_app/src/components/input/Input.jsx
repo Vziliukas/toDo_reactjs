@@ -14,6 +14,7 @@ const Input = () => (
         <textarea className="textarea" placeholder="..."></textarea>
       </div>
     </div>
+    <span className="button">Add</span>
   </div>
 );
 
